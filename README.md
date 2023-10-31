@@ -6,7 +6,7 @@ This project involves clustering cryptocurrencies using K-Means algorithm on bot
 Using Standard Scaler, I scaled the dataframe and created the below eblow curve, determining the best K value was 4. 
 
 <div style="text-align:center">
-    <img src="" alt="Standard Elbow">
+    <img src="https://github.com/mgtaylor119/CryptoClustering/blob/main/Images/Standard%20elbow%20curve.png?raw=true" alt="Standard Elbow">
 </div>
 
 Once an optimal K value was determined, The K-Value model was initialized, and the below cluster plot was generated
