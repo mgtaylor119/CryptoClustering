@@ -14,6 +14,9 @@ Once an optimal K value was determined, The K-Value model was initialized, and t
 <div style="text-align:center">
     <img src="https://github.com/mgtaylor119/CryptoClustering/assets/132225207/0b993e13-609f-4ece-bce5-07ba7edcad3b" alt="Standard Cluster">
 </div>
+
+<br><br>
+
 **Principal Component Analysis**<br>
 Using the scaled data from the first part of the assignemnt, I peformed a PCA and generated a database with those results. I created another elbow curve, and deteremined the best K value was again 4. 
 
