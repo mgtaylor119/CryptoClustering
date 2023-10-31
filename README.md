@@ -18,7 +18,7 @@ Once an optimal K value was determined, The K-Value model was initialized, and t
 Using the scaled data from the first part of the assignemnt, I peformed a PCA and generated a database with those results. I created another elbow curve, and deteremined the best K value was again 4. 
 
 <div style="text-align:center">
-    <img src="" alt="PCA Elbow">
+    <img src="https://github.com/mgtaylor119/CryptoClustering/blob/main/Images/PCA%20elbow%20curve.png?raw=true" alt="PCA Elbow">
 </div>
 
 Using the K value of 4 again, I created another cluster plot for the PCA data. 
