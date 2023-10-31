@@ -24,5 +24,5 @@ Using the scaled data from the first part of the assignemnt, I peformed a PCA an
 Using the K value of 4 again, I created another cluster plot for the PCA data. 
 
 <div style="text-align:center">
-    <img src="" alt="PCA Cluster">
+    <img src="https://github.com/mgtaylor119/CryptoClustering/blob/main/Images/PCA%20Scatter.png?raw=true" alt="PCA Cluster">
 </div>
